@@ -1,0 +1,39 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+.button {
+  margin-top: 20px;
+  margin-bottom: 70px;
+  text-align: center;
+}
+
+.rewardabout {
+  text-align: center;
+}
+
+.aboutabout {
+  text-align: center;
+}
+
+#buktitf {
+  background-color: #e2edff;
+}
+.htj {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.whatsapp {
+  position: fixed;
+  right: 0;
+  top: 500px;
+  font-size: 40px;
+  z-index: 100;
+  padding-right: 10px;
+}
